@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/d-suite/art/main/bot/bot_long@vector.svg" style="width:128px; height: auto;"> <img src="https://raw.githubusercontent.com/d-suite/art/main/wip.svg" style="width:128px; height: auto;">
+<img src="https://raw.githubusercontent.com/d-suite/art/main/bot/bot_long@vector.svg" style="height:45px; width: auto;"> <img src="https://raw.githubusercontent.com/d-suite/art/main/wip.svg" style="height:45px; width: auto;">
 
 monorepo for d-suite Discord bots. none of these are done and are not ready for use in servers yet, but they'll eventually be worked on maybe
 
