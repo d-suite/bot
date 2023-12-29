@@ -1,0 +1,1 @@
+<img alt="d-bot" src="https://raw.githubusercontent.com/d-suite/art/main/bot/poll/poll_long@vector.svg" style="height:45px; width: auto;"> <img alt="wip" src="https://raw.githubusercontent.com/d-suite/art/main/wip.svg" style="height:45px; width: auto;">
