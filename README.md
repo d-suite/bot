@@ -1,10 +1,14 @@
 <img alt="d-bot" src="https://raw.githubusercontent.com/d-suite/art/main/bot/bot_long@vector.svg" style="height:36px; width: auto;"> <img alt="wip" src="https://raw.githubusercontent.com/d-suite/art/main/wip.svg" style="height:36px; width: auto;">
 
-monorepo for d-suite Discord bots. none of these are done and are not ready for use in servers yet, but they'll eventually be worked on maybe
+source code for d-suite Discord bot. this has not been started yet and is merely a concept for now.
 
-### what's here, or going to be here?
+### features
 
-- **mod** is a moderation bot with features such as temporary banning and punishment reason dms
-- **log** is a bot that tracks message deletion and editing (configurable by server managers) and logs those changes to a channel for moderation purposes
-- **poll** is a bot that allows server owners to create polls for users to vote on
-- **data** is a bot that allows users to convert data such as temperatures or get timestamps for messages
+all of these will be off by default but can be enabled by the server owner.
+
+- moderation features:
+    - temporary banning
+    - dms to user for punishment info
+    - track message deletion/editing and logging to a private channel
+- poll feature that allow server owners to create polls for users to vote
+- data features that allow users to convert data such as temperatures/weight or get timestamps
